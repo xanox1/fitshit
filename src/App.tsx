@@ -11,7 +11,7 @@ const WEEK_DAYS = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Satu
 const GOAL_EXERCISES: Record<string, string[]> = {
   Strength: ['Push-ups', 'Goblet Squats', 'Rows', 'Overhead Press'],
   Conditioning: ['Burpees', 'Mountain Climbers', 'Jump Squats', 'Fast High Knees'],
-  Mobility: ['World\'s Greatest Stretch', 'Cossack Squats', 'Dead Bugs', 'Thoracic Rotations'],
+  Mobility: ["World's Greatest Stretch", 'Cossack Squats', 'Dead Bugs', 'Thoracic Rotations'],
 }
 
 function App() {
